@@ -134,7 +134,8 @@ git clone https://github.com/AkashKumarRam/Restaurant-Backend-App.git
 
 ## 2. Navigate into the project
 ```bash
-git clone https://github.com/AkashKumarRam/Restaurant-Backend-App.git
+cd restaurant-app
+
 ```
 
 ## 3. Install dependencies
